@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/LoginFrame">
+        <file>Res/grayqq.png</file>
+        <file>Res/close.png</file>
+        <file>Res/downPush.png</file>
+        <file>Res/keyboard.png</file>
+        <file>Res/min.png</file>
+        <file>Res/passwd.png</file>
+        <file>Res/qq.png</file>
+        <file>Res/qrCode.png</file>
+        <file>Res/set.png</file>
+        <file>Res/whiteQQ.png</file>
+    </qresource>
+</RCC>
